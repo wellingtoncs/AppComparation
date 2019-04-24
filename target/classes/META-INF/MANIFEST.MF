@@ -4,7 +4,7 @@ Implementation-Version: 1.0
 Built-By: wellington.c.silva
 Implementation-Vendor-Id: com.wcs
 Build-Jdk: 1.8.0_201
-Implementation-URL: http://projects.spring.io/spring-boot/compare/
+Implementation-URL: http://projects.spring.io/spring-boot/comparation/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
 
